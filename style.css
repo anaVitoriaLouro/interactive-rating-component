@@ -1,5 +1,9 @@
 /* Rating state start */
 
+.hide {
+    display: none;  /* temporary */
+}
+
 .container {
     background: var(--very-dark-blue);
     width: 100vw;
@@ -70,3 +74,5 @@ h1 {
     color: var(--white);
     font-size: 1.2rem;
 }
+
+/* Thank you state start */
