@@ -1,12 +1,10 @@
-
-
 /* Colors */
 
 :root {
     --orange: hsl(25, 97%, 53%);
     --white:  hsl(0, 0%, 100%);
     --light-grey: hsl(217, 12%, 63%);
-    --medium-grey: hsl(216, 12%, 54%);
+    --medium-grey: hsl(218, 10%, 33%);
     --dark-blue: hsl(213, 19%, 18%);
     --very-dark-blue: hsl(216, 12%, 8%);
 }
@@ -50,8 +48,24 @@ h1 {
 }
 
 .conteudo-texto {
-    font-size: 1.4rem;
+    font-size: 1.2rem;
     color: var(--light-grey);
     line-height: 2.2rem;
     margin-top: 1.5rem;
+}
+
+.container-avaliacao {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.avaliacao {
+    color: var(--light-grey);
+    font-size: 1.2rem;
+    font-weight: 700;
+    background-color: var(--medium-grey);
+    padding: 1rem;
+    border-radius: 50%;
+    margin: 2.6rem .5rem 0;
 }
