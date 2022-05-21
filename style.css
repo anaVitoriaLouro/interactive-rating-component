@@ -13,21 +13,14 @@
     align-items: center;
    }
 
-.cartao-pesquisa {
+.cartao {
     background-color: var(--dark-blue);
-    width: 25vw;
+    width: 70vw;
     margin: 0 1.5rem;
     border-radius: 1.5rem;
     padding: 2.5rem;
 }
 
-.cartao-agradecimento {
-    background-color: var(--dark-blue);
-    width: 25vw;
-    margin: 0 1.5rem;
-    border-radius: 1.5rem;
-    padding: 2.5rem;
-}
 
 .estrela {
     background-color: var(--medium-grey);
@@ -65,6 +58,17 @@ h1 {
     margin: 2.6rem .5rem 0;
 }
 
+.avaliacao:hover {
+    background-color: var(--orange);
+    cursor: pointer;
+    color: var(--white);
+}
+
+.ativo {
+    background-color: var(--light-grey);
+    color: var(--white);
+}
+
 .container-botao {
     display: flex;
     align-items: center;
@@ -81,6 +85,13 @@ h1 {
     text-transform: uppercase;
     color: var(--white);
     font-size: 1.2rem;
+    letter-spacing: .1rem;
 }
 
 /* Thank you state start */
+
+.agradecimento-ilustracao {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
