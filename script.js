@@ -5,9 +5,9 @@ const botao_nota = document.querySelectorAll(".botao-nota");
 const resultado_escolhido = document.querySelector(".resultado-escolhido");
 let resultado_final = 4; //valor inicial
 
-botao_submit.addEventListener('click', onSubmit);
+botao_submit.addEventListener('click', (onSubmit));
 botao_nota.forEach(botao => {
-    botao.addEventListener('click', cliqueBotaoDaNota);
+    botao.addEventListener('click', (cliqueBotaoDaNota));
 });
 
 function onSubmit() {
@@ -16,7 +16,7 @@ function onSubmit() {
     cartao_agradecimento.classList.remove("hide");
 };
 
-function cliqueBotaodaNota(event) {
+function cliqueBotaoDaNota(event) {
     botao_nota.forEach(botao => {
         botao.classList.remove("ativo");
     })
