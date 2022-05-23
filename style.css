@@ -48,7 +48,7 @@
     justify-content: space-between;
 }
 
-.avaliacao {
+.botao-nota {
     color: var(--light-grey);
     font-size: 1.2rem;
     font-weight: 700;
@@ -58,7 +58,7 @@
     margin: 2.6rem .5rem 0;
 }
 
-.avaliacao:hover {
+.botao-nota:hover {
     background-color: var(--orange);
     cursor: pointer;
     color: var(--white);
@@ -76,7 +76,7 @@
     margin-top: 2rem;
 }
 
-.botao {
+.botao-submit {
     background-color: var(--orange);
     border-radius: 4rem;
     border: none;
@@ -96,7 +96,7 @@
     align-items: center;
 }
 
-.resultado {
+.resultado-texto {
     background-color: var(--medium-grey);
     padding: .7rem;
     border-radius: 4rem;
