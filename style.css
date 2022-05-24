@@ -88,6 +88,13 @@
     letter-spacing: .1rem;
 }
 
+.botao-submit:hover {
+    background-color: var(--white);
+    cursor: pointer;
+    color: var(--orange);
+    font-weight: 700;
+}
+
 /* Thank you state start */
 
 .cartao-agradecimento {
