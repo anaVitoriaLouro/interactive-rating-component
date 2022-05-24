@@ -1,9 +1,5 @@
 /* Rating state start */
 
-.hide {
-    display: none;  /* temporary */
-}
-
 .container {
     background: var(--very-dark-blue);
     width: 100vw;
@@ -113,4 +109,8 @@
 
 .agradecimento-texto {
     text-align: center;
+}
+
+.hide {
+    display: none;
 }
