@@ -1,0 +1,9 @@
+@media screen and (min-width: 1440px) {
+    .cartao {
+        width: 25vw;
+    }
+
+   .botao-submit {
+       width: 100%;
+   }
+}
