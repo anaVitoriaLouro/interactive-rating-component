@@ -13,4 +13,5 @@
 
 body {
     font-family: 'Overpass', sans-serif;
+    background: var(--very-dark-blue);
 }

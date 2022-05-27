@@ -1,7 +1,6 @@
 /* Rating state start */
 
 .container {
-    background: var(--very-dark-blue);
     width: 100vw;
     height: 100vh;
     display: flex;
