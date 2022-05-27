@@ -2,7 +2,7 @@
 
 .container {
     width: 100vw;
-    height: 100vh;
+    height: 95vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -35,6 +35,7 @@
     color: var(--light-grey);
     line-height: 2.2rem;
     margin-top: 1.5rem;
+    text-align: left;
 }
 
 .container-avaliacao {
@@ -113,3 +114,20 @@
 .hide {
     display: none;
 }
+
+/* Footer */
+
+.rodape {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: var(--white);
+}
+
+.rodape a {
+    color: var(--orange);
+}
+
+/* .rodape a:hover{
+    color: var(--light-grey);
+} */
