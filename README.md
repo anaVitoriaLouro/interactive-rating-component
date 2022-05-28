@@ -45,11 +45,13 @@ OBS: Under construction.
 - Mobile-first workflow
 
 ### What I learned
-OBS: Under construction.
+This project is part of a challenge to my personal and professional growth.
 
-### Continued development
-OBS: Under construction.
+One of the Objectives was to practice already learned HTML and CSS concepts and, of course, learn new things about it, but the main focus was to initiate my JavaScript apprenticeship and put it to practice.
+
 
 ## Author
-OBS: Under construction.
+My name is Ana Vitória and I started my studies in 2021, mostly self-taught.
+
+For more professional information you can find me on Linkedin.
 
