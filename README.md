@@ -1,5 +1,3 @@
-OBS: This README file is under construction.
-
 # Frontend Mentor - Interactive rating component solution
 
 This is a solution to the [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
@@ -32,7 +30,14 @@ Users should be able to:
 - See the "Thank you" card state after submitting a rating
 
 ### Screenshot
-OBS: Under construction.
+
+- Mobile Design
+![mobile-design](https://user-images.githubusercontent.com/97908745/171219499-cbf6a219-96ec-40fa-8b76-eb508eb0c31d.png)
+
+
+- Desktop Design
+![desktop-design](https://user-images.githubusercontent.com/97908745/171219825-565a3e5d-11dd-4f2b-95d9-38ac10277e03.png)
+
 
 ## My process
 
@@ -54,4 +59,5 @@ One of the Objectives was to practice already learned HTML and CSS concepts and,
 My name is Ana Vitória and I started my studies in 2021, mostly self-taught.
 
 For more professional information you can find me on Linkedin.
+
 
